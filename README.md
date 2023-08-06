@@ -1,4 +1,2 @@
 # Google_Ads_and_Listing_site_data-dashboard_using_Excel
-In this project, we have two Excel sheets those are Google Ads data and ListingSite data. By taking these sheets
-I calculate the total Spends and Returns weekly, total Spends and Returns monthly, The most profitable channel by a campaign, The most profitable channel by Ads Group,
-profit by keyword, Time Series graph and total Spends by country in both Google Ads data and ListingSite data.
+For this project, we utilized two Excel sheets: Google Ads data and ListingSite data. With these sheets, I was able to calculate weekly and monthly total Spends and Returns, determine the most profitable channel by campaign and Ads Group, identify profit by keyword, create a Time Series graph, and analyze total Spends by country for both sets of data. I visualized this information and generated dashboards in Excel.
